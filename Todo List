@@ -1,0 +1,18 @@
+Todo:
+1 write C++ -> BIMcode compiler in C++
+    1a parser
+    2a modules
+        2a1 Labelmaker
+        2a2 Math operators
+        2a3 (Look up C++ docs (100s))
+2 Write modules for OS
+    2a File system
+    2b Console
+        2b1 Pipe support
+        2b2 Scripting Files
+    2c File explorer
+    2d Text editor
+    2e compiler
+        2e1 Compile BIMcode compiler source with itself to BIMcode
+    2f Event handling
+    2g CHRON Task Scheduling
